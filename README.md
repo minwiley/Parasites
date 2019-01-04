@@ -7,7 +7,7 @@ What’s Eating you
 The George Washington University Data Analytics and Data Visualization Boot Camp
 03 January 2019
 
-<img width="212" alt="capture1" src="https://user-images.githubusercontent.com/41865917/50668218-b69b1b80-0f8b-11e9-9f98-6d2bcd1d64b3.PNG">
+<img width="212" alt="capture1" src="https://user-images.githubusercontent.com/41865917/50668218-b69b1b80-0f8b-11e9-9f98-6d2bcd1d64b3.PNG" alt="center">
 
 Proposal
 Project 2 will utilize Python Flask powered RESTful API, HTML/CSS, JS, one database (MySQL or SQLite) with user-driver interactions. Data munging and data visualization utilizing CDC provided dataset on infectious diseases from the National Notifiable Diseases Surveillance System (NNDSS). We narrowed the field to six diseases caused by parasites (Babesiosis, Cryptosporidiosis, Cyclosporiasis, Giardiasis, Malaria, and Trichinellosis) to focus on building out our site with a more manageable dataset. These JSON APIS will be rolled up into a SQL database. We will scrape the index from https://www.cdc.gov/parasites/az/index.html#s to pull the list of parasites; working these aspects in jupyter notebook with BeautifulSoup. 
