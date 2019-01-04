@@ -21,7 +21,6 @@ Git repo: https://github.com/Yanjun7/Parasites
 
 sketch of the design:
 Different markers with layers / Choropleth js leaflet
-   
 
 D3 charting with transitions and interactions 
-    
+
