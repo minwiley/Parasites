@@ -1,8 +1,7 @@
 ## Project 2: (Babesiosis, Cryptosporidiosis, Cyclosporiasis, Giardiasis, Malaria, and Trichinellosis)
 ### Infectious Diseases and Conditions caused by parasitic infection in United States as reported by the CDC NNDSS or
 What’s Eating you 
-
-                          By Melinda Wiley, Patricia Escalante, Yanjun Zhou
+By Melinda Wiley, Patricia Escalante, Yanjun Zhou
 
 The George Washington University Data Analytics and Data Visualization Boot Camp
 03 January 2019
