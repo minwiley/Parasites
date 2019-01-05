@@ -21,8 +21,7 @@ Git repo: https://github.com/Yanjun7/Parasites
 <br>
 <br>sketch of the design:<br>
 <br>Line charts with transitions on raw data, per capita data, and possibly regional data<br>
-	<br>X=time; y=# of Infections<br>
+	X=time; y=# of Infections<br>
 <br>Bubble chart over time x=population, y=# of infections<br>
-
-<br>D3 charting with transitions and interactions <br>
+D3 charting with transitions and interactions <br>
     
