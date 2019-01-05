@@ -5,7 +5,11 @@ The George Washington University Data Analytics and Data Visualization Boot Camp
 04 January 2019
 <br>
 <p align="center">
-  <img width="212" alt="capture1" src="https://user-images.githubusercontent.com/41865917/50668218-b69b1b80-0f8b-11e9-9f98-6d2bcd1d64b3.PNG">
+<img width="461" alt="giardia1" src="https://user-images.githubusercontent.com/41865917/50729052-2e3e8700-1101-11e9-8c32-db152d1b875e.PNG">
+<img width="228" alt="giardia2" src="https://user-images.githubusercontent.com/41865917/50729053-2e3e8700-1101-11e9-90ed-cccb0fa40fe3.PNG">
+<img width="334" alt="giardia3" src="https://user-images.githubusercontent.com/41865917/50729054-2e3e8700-1101-11e9-807a-65a3d0cfb194.PNG">
+<img width="245" alt="giardia4" src="https://user-images.githubusercontent.com/41865917/50729055-2e3e8700-1101-11e9-958d-a9dedf12bbab.PNG">
+
 </p>
 
 <br>
