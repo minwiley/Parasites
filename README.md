@@ -29,3 +29,4 @@ Git repo: https://github.com/Yanjun7/Parasites
 <br>Bubble chart over time x=population, y=# of infections<br>
 D3 charting with transitions and interactions <br>
     
+# Parasites
