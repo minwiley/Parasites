@@ -1,5 +1,20 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
+
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+   <title>Giardiasis</title>
+   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+   <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+   <script src="http://d3js.org/d3.v3.js"></script>
+   <link href="style.css" rel="stylesheet">
+</head>
+
 <style>
 
 body {
@@ -19,16 +34,57 @@ body {
   stroke-width: 1.5px;
 }
 
+#text2 {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+#text {
+    padding-left: 40px;
+}
+
 </style>
+
 <body>
 
-<div id="option">
-    <input name="updateButton" 
-           type="button" 
-           value="Update"/>
+<div class="row">
+<div class="col"> <!-- Navigation -->
+ <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top" >
+ <div class="container-fluid">
+   <h1 class="display-6">Giardiasis</h1>
+   <button class="navbar-toggler" type="button" data-toggle="collapse"
+    data-target="#navbarResponsive">
+     <span class="navbar-toggler-icon"></span>
+   </button>
+   <div class="collapse navbar-collapse" id="navbarResponsive">
+     <ul class="navbar-nav ml-auto">
+       <li class="nav-item" active>
+         <a class="nav-link" href="index.html">Home</a>
+       </li>
+       <li class="nav-item">
+         <a class="nav-link" href="data.html"></a>
+     </li></div>
+    </ul>
+</div>
+</div>
+</nav>
 </div>
 
-<script src="http://d3js.org/d3.v3.js"></script>
+
+<div class="row">
+<div id="option";>
+
+<p id="text2">
+
+    <input name="updateButton" 
+           type="button" 
+           value="Update""/>
+           </div>
+</p>
+</div>
+</div>
+
+
 <script>
 
 var n = 0;
@@ -205,6 +261,16 @@ function updateChart(cities,data,color) {
 }
 
 </script>
+
+<div><p id="text">Giardia infection cases in the United States from 2014 to 2018 as tracked by the CDC. <br>
+States such as TX, NC, OK, WY are categorized as Reporting Exceptions (Not Reportable or Unavailable). <br>
+Chart description:
+ x = Giardia Infection Cases,
+ y = Year
+ <br>
+ On update: x = Giardia Infection Cases for every 100,000, y= Year
+</p></div>
+
 </body>
 
 
