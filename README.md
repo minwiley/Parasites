@@ -30,3 +30,6 @@ Git repo: https://github.com/Yanjun7/Parasites
 D3 charting with transitions and interactions <br>
     
 # Parasites
+
+https://giardia.herokuapp.com/index.html
+
